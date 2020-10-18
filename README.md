@@ -1,6 +1,7 @@
 # ILoveCoffee - [NestJS Fundamentals](https://learn.nestjs.com/p/fundamentals) Course Project
 
 ![CodeQL](https://github.com/MUFYAheer/ilovecoffee/workflows/CodeQL/badge.svg?branch=master)
+![CI](https://github.com/MUFYAheer/ilovecoffee/workflows/CI/badge.svg)
 
 ## Description
 
