@@ -1,10 +1,18 @@
 {
   "name": "ilovecoffee",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "NestJS Fundamentals course project repository",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MUFYAheer/ilovecoffee"
+  },
+  "author": {
+    "name": "Muhammad Umer Farooq",
+    "email": "mufy.aheer@gmail.com",
+    "url": "https://github.com/MUFYAheer"
+  },
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
